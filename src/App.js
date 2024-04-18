@@ -9,7 +9,7 @@ function App() {
       <p>Moj prvi broj: {Brojevi.Broj1}</p>
       <p>Moj prvi broj: {Brojevi.Broj2}</p>
       <p>Prvi broj za zbrajanje je: {everything.x}</p>
-      <p>Prvi broj za zbrajanje je: {everything.y}</p>
+      <p>Drugi broj za zbrajanje je: {everything.y}</p>
       <p>
         Suma tih 2 broja je: {everything.Zbrajanje(everything.x, everything.y)}
       </p>
